@@ -1,4 +1,4 @@
-# Hi there, I'm Tuan (aka Đỗ Xuân Tuấn)!
+#I'm Tuan
 
 ## About Me
 I am a **Quality Assurance Engineer** working in the automotive industry, specializing in **AUTOSAR** software and adhering to the **ISO 26262** standard. My primary focus is on ensuring software quality, particularly for **crypto modules**, and improving processes with the **BCAM methodology**. Beyond my technical expertise, I enjoy guiding my colleagues with clear definitions and procedural insights in our workflows.
